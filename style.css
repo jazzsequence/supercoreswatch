@@ -1,0 +1,61 @@
+/*
+Theme Name: Museum Superhero
+Theme URI: http://pluralsight.com/training/TableOfContents/wordpress-theme-framework-bootstrap3
+Description: A child theme of Museum Core
+Version: 1.0
+Author: Chris Reynolds
+Author URI: http://chrisreynolds.io
+Template: museum-core
+*/
+
+@import url( '../museum-core/style.css' );
+
+.amelia .container {
+  background: #108a93;
+  color: #fff;
+}
+.cerulean .container {
+  color: #555555;
+}
+.cosmo .container {
+  color: #333333;
+}
+.cyborg .container {
+  background: #000;
+  color: #888;
+}
+.darkly .container {
+  background: #222;
+  color: #fff;
+}
+.flatly .container {
+  color: #2c3e50;
+}
+.journal .container {
+  color: #777777;
+}
+.lumen .container {
+  color: #555555;
+}
+.shamrock .container {
+  background: #538935;
+  color: #fff;
+}
+.simplex .container {
+  background: #fcfcfc;
+  color: #808080;
+}
+.slate .container {
+  background: #272b30;
+  color: #c8c8c8;
+}
+.spacelab .container {
+  color: #666;
+}
+.superhero .container {
+  background: #2b3e50;
+  color: #ebebeb;
+}
+.yeti .container {
+  color: #222;
+}
