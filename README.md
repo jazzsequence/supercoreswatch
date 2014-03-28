@@ -9,3 +9,6 @@ This child theme assumes you have Museum Core installed.
 
 * [Get it on GitHub](https://github.com/jazzsequence/museum-core)  
 * [Get it on WordPress.org](http://wordpress.org/themes/museum-core/)
+
+##Screenshot
+![Customize screen](https://i.cloudup.com/oRqYXyYlQ8-3000x3000.png)
